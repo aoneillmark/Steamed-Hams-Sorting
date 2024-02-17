@@ -2,8 +2,8 @@
 
 This repository contains a Python script that sorts the scenes of the "Steamed Hams" video by the dominant frequency of the audio in each scene. The script utilizes the `moviepy` library to handle video and audio data, and `scipy` for audio processing and frequency analysis.
 
-[Link to YouTube upload of the result](https://youtu.be/dDmH4VuqEv8)
-I realised after making this that this has already been done, so credit goes to [Tommy](https://gist.github.com/tommy-mor)
+[Link to YouTube upload of the result](https://youtu.be/dDmH4VuqEv8)  
+I realised after making this that this has already been done, so credit goes to [Tommy](https://gist.github.com/tommy-mor)  
 [Link to Tommy's version on YouTube](https://www.youtube.com/watch?v=iWFRKZek0FI)
 
 ## File Structure
